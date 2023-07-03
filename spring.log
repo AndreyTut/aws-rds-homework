@@ -1,0 +1,20 @@
+2023-05-18T00:10:18.334+03:00  WARN 93422 --- [http-nio-8080-exec-2] c.amazonaws.services.s3.AmazonS3Client   : No content length specified for stream data.  Stream contents will be buffered in memory and could result in out of memory errors.
+2023-05-18T02:03:56.573+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m22s760ms).
+2023-05-18T02:22:45.669+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m48s700ms).
+2023-05-18T02:39:06.330+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m50s656ms).
+2023-05-18T02:55:48.288+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m11s953ms).
+2023-05-18T03:13:26.645+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m8s347ms).
+2023-05-18T03:30:02.569+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m35s904ms).
+2023-05-18T03:47:22.614+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m50s20ms).
+2023-05-18T04:04:43.409+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m50s775ms).
+2023-05-18T04:31:04.227+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m50s828ms).
+2023-05-18T04:50:09.190+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m34s960ms).
+2023-05-18T05:06:26.867+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m17s659ms).
+2023-05-18T06:32:13.220+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h25m16s344ms).
+2023-05-18T08:08:19.558+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h35m36s328ms).
+2023-05-18T08:25:58.700+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m9s121ms).
+2023-05-18T08:36:24.549+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m55s836ms).
+2023-05-18T10:08:10.201+03:00  WARN 93422 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m44s682ms).
+2023-05-18T11:13:55.843+03:00  INFO 93422 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-18T11:13:55.854+03:00  INFO 93422 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-05-18T11:13:55.859+03:00  INFO 93422 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
